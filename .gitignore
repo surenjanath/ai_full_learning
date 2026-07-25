@@ -1,2 +1,5 @@
-ai-engineering-from-scratch
+node_modules
+.pyc
+.env
+
 
